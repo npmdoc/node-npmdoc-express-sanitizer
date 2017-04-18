@@ -1,9 +1,14 @@
-# api documentation for  [express-sanitizer (v1.0.2)](https://github.com/markau/express-sanitizer)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-sanitizer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-sanitizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-sanitizer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-sanitizer)
+# npmdoc-express-sanitizer
+
+#### api documentation for  [express-sanitizer (v1.0.2)](https://github.com/markau/express-sanitizer)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-sanitizer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-sanitizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-sanitizer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-sanitizer)
+
 #### Express middleware for the sanitizer module.
 
-[![NPM](https://nodei.co/npm/express-sanitizer.png?downloads=true)](https://www.npmjs.com/package/express-sanitizer)
+[![NPM](https://nodei.co/npm/express-sanitizer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-sanitizer)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-express-sanitizer/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-express-sanitizer_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-express-sanitizer/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-express-sanitizer/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-express-sanitizer/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-express-sanitizer/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-express-sanitizer/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-express-sanitizer/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Mark Andrews",
-        "email": "20metresbelow@gmail.com"
+        "name": "Mark Andrews"
     },
     "bugs": {
         "url": "https://github.com/markau/express-sanitizer/issues"
@@ -48,13 +52,11 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "markau",
-            "email": "20metresbelow@gmail.com"
+            "name": "markau"
         }
     ],
     "name": "express-sanitizer",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/markau/express-sanitizer.git"
@@ -63,16 +65,6 @@
     "version": "1.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module express-sanitizer](#apidoc.module.express-sanitizer)
-
-
-
-# <a name="apidoc.module.express-sanitizer"></a>[module express-sanitizer](#apidoc.module.express-sanitizer)
 
 
 
