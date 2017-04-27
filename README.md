@@ -1,6 +1,6 @@
 # npmdoc-express-sanitizer
 
-#### api documentation for  [express-sanitizer (v1.0.2)](https://github.com/markau/express-sanitizer)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-sanitizer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-sanitizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-sanitizer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-sanitizer)
+#### basic api documentation for  [express-sanitizer (v1.0.2)](https://github.com/markau/express-sanitizer)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-sanitizer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-sanitizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-sanitizer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-sanitizer)
 
 #### Express middleware for the sanitizer module.
 
@@ -62,7 +62,8 @@
         "url": "git://github.com/markau/express-sanitizer.git"
     },
     "scripts": {},
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "bin": {}
 }
 ```
 
